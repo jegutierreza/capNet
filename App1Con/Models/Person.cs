@@ -4,13 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace App1Con
+namespace App1Con.Models
 {
-    class Program
+    public class Person
     {
-        static void Main(string[] args)
-        {
-            var uno = "Hola Jean";
-        }
+        public string Name { get; set; }
+        public DateTime Birth { get; set; }
     }
 }
