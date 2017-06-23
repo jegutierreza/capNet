@@ -1,0 +1,13 @@
+D:\capCSharp\App1Con\Unit.BL\bin\Debug\Unit.BL.dll
+D:\capCSharp\App1Con\Unit.BL\bin\Debug\Unit.BL.pdb
+D:\capCSharp\App1Con\Unit.BL\bin\Debug\Prueba.Infraestructura.dll
+D:\capCSharp\App1Con\Unit.BL\bin\Debug\Prueba.Model.dll
+D:\capCSharp\App1Con\Unit.BL\bin\Debug\Unit.DAO.dll
+D:\capCSharp\App1Con\Unit.BL\bin\Debug\Prueba.Infraestructura.pdb
+D:\capCSharp\App1Con\Unit.BL\bin\Debug\Prueba.Model.pdb
+D:\capCSharp\App1Con\Unit.BL\bin\Debug\Unit.DAO.pdb
+D:\capCSharp\App1Con\Unit.BL\obj\Debug\2Unit.BL.csprojResolveAssemblyReference.cache
+D:\capCSharp\App1Con\Unit.BL\obj\Debug\Unit.BL.dll
+D:\capCSharp\App1Con\Unit.BL\obj\Debug\Unit.BL.pdb
+D:\capCSharp\App1Con\Unit.BL\bin\Debug\EntityFramework.dll
+D:\capCSharp\App1Con\Unit.BL\bin\Debug\EntityFramework.xml

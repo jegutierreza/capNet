@@ -1,0 +1,14 @@
+D:\capCSharp\App1Con\Unit.DAO\bin\Debug\Unit.DAO.dll.config
+D:\capCSharp\App1Con\Unit.DAO\bin\Debug\Unit.DAO.dll
+D:\capCSharp\App1Con\Unit.DAO\bin\Debug\Unit.DAO.pdb
+D:\capCSharp\App1Con\Unit.DAO\bin\Debug\EntityFramework.dll
+D:\capCSharp\App1Con\Unit.DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\capCSharp\App1Con\Unit.DAO\bin\Debug\Prueba.Infraestructura.dll
+D:\capCSharp\App1Con\Unit.DAO\bin\Debug\Prueba.Model.dll
+D:\capCSharp\App1Con\Unit.DAO\bin\Debug\Prueba.Infraestructura.pdb
+D:\capCSharp\App1Con\Unit.DAO\bin\Debug\Prueba.Model.pdb
+D:\capCSharp\App1Con\Unit.DAO\bin\Debug\EntityFramework.xml
+D:\capCSharp\App1Con\Unit.DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\capCSharp\App1Con\Unit.DAO\obj\Debug\3Unit.DAO.csprojResolveAssemblyReference.cache
+D:\capCSharp\App1Con\Unit.DAO\obj\Debug\Unit.DAO.dll
+D:\capCSharp\App1Con\Unit.DAO\obj\Debug\Unit.DAO.pdb

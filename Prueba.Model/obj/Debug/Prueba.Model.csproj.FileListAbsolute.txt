@@ -1,0 +1,4 @@
+D:\capCSharp\App1Con\Prueba.Model\bin\Debug\Prueba.Model.dll
+D:\capCSharp\App1Con\Prueba.Model\bin\Debug\Prueba.Model.pdb
+D:\capCSharp\App1Con\Prueba.Model\obj\Debug\Prueba.Model.dll
+D:\capCSharp\App1Con\Prueba.Model\obj\Debug\Prueba.Model.pdb
