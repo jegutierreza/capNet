@@ -2,3 +2,4 @@ D:\capCSharp\App1Con\Prueba.Infraestructura\bin\Debug\Prueba.Infraestructura.dll
 D:\capCSharp\App1Con\Prueba.Infraestructura\bin\Debug\Prueba.Infraestructura.pdb
 D:\capCSharp\App1Con\Prueba.Infraestructura\obj\Debug\Prueba.Infraestructura.dll
 D:\capCSharp\App1Con\Prueba.Infraestructura\obj\Debug\Prueba.Infraestructura.pdb
+D:\capCSharp\App1Con\Prueba.Infraestructura\obj\Debug\Prueba.Infraestructura.csprojResolveAssemblyReference.cache

@@ -16,8 +16,15 @@ namespace Unit.DAO
 
         }
 
-        public DbSet<Clase> Clases { get; set; }
+        public IDbSet<Clase> Clases { get; set; }
+
         public DbSet<Profesor> Profesores { get; set; }
+
+        public DbSet<alumno> Alumnos { get; set; }
+
+        public DbSet<matricula> Matricula { get; set; }
+
+        public DbSet<curso> Cursos { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
